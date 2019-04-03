@@ -84,6 +84,7 @@
 	"qdee.qdee_setWaterPump|block":"设置水泵|%port|速度(0~100) %speed|",
 	"qdee.onQdeeGetCmd|block":"当Qdee获取到|%code|命令",
 	"qdee.qdee_sendSensorData|block":"发送|%cmd|传感器数据 %data",
+	"qdee.qdee_temphumi_Init|block":"初始化温湿度传感器 %port",
 	"qdee.Qdee_IOTCmdType.LED_COLOR|block":"彩灯颜色",
 	"qdee.Qdee_IOTCmdType.BUZZER|block":"蜂鸣器",
 	"qdee.Qdee_IOTCmdType.SHOW|block":"显示",
