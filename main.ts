@@ -206,7 +206,7 @@ namespace qdee {
         port8 = 0x08            
     }
     
-    export enum TempSensor { 
+    export enum TempSensorPort { 
         //% block="Port 4"
         port4 = 0x04,       
         //% block="Port 9"
@@ -1655,9 +1655,9 @@ namespace qdee {
             case 1:basic.showIcon(IconNames.Heart);break;
             case 2:basic.showIcon(IconNames.Yes);break;
             case 3:basic.showIcon(IconNames.No);break;
-            case 4: basic.showIcon(IconNames.Happy);break;
+            case 4:basic.showIcon(IconNames.Happy);break;
             case 5:basic.showIcon(IconNames.Sad);break;
-            case 6:basic.showIcon(IconNames.Angry)break;
+            case 6:basic.showIcon(IconNames.Angry);break;
             case 7:
                 basic.showLeds(`
             . . # . .
