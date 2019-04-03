@@ -107,5 +107,8 @@
 	"qdee.Qdee_MusicName.JumpUp|block":"向上跳",
 	"qdee.Qdee_MusicName.JumpDown|block":"向下跳",
 	"qdee.Qdee_MusicName.PowerUp|block":"开机",
-	"qdee.Qdee_MusicName.PowerDown|block":"关机"
+	"qdee.Qdee_MusicName.PowerDown|block":"关机",
+	"qdee.qdee_gettemperature|block":"Qdee获取 %select",
+	"qdee.Temp_humi.Temperature|block":"温度",
+	"qdee.Temp_humi.Humidity|block":"湿度"
 }
